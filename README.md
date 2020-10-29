@@ -56,13 +56,13 @@ This is a weather dashboard with form inputs that will run in the browser and fe
 
 The following image shows the web application's appearance and functionality:
 
-![Work Day Scheduler screenshot](./assets/images/demo.gif)
+![Weather Dashboard](./assets/images/demo.png)
 
 ## Links
 
-The URL of the [deployed application](https://anthonyhermann.github.io/Work-Day-Scheduler/)
+The URL of the [deployed application](https://anthonyhermann.github.io/Weather-Dashboard/)
 
-The URL of the [GitHub repository](https://github.com/AnthonyHermann/Work-Day-Scheduler)
+The URL of the [GitHub repository](https://github.com/AnthonyHermann/Weather-Dashboard)
 
 - - -
 © 2020 All Rights Reserved.
